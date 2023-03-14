@@ -138,7 +138,7 @@ Vinte peças.
 URSINHO
 (chorando) Esta gaiola é muito pequena.
 
-ASNO
+BURRO
 Por favor, não me entregue. Eu nunca vou
 ser teimoso novamente. Eu posso mudar. Por favor!
 Me dê outra chance!
@@ -146,7 +146,7 @@ Me dê outra chance!
 VELHA
 Ah, cale a boca. (empurra a corda)
 
-ASNO
+BURRO
 Oh!
 
 PROTETOR DE CABEÇA
@@ -214,7 +214,7 @@ de suas pernas voa para fora e chuta Sininho para fora do Peter Pan
 mãos, e sua gaiola cai na cabeça do Burro. Ele fica aspergido
 com pó de fada e ele é capaz de voar.
 
-ASNO
+BURRO
 Ei! Eu posso voar!
 
 PETER PAN
@@ -226,7 +226,7 @@ Ele pode voar!
 PROTETOR DE CABEÇA
 Ele pode falar!
 
-ASNO
+BURRO
 Há, há! Isso mesmo, idiota! Agora eu sou
 um burro voador e falante. Você pode
 vi uma mosca doméstica, talvez até uma supermosca
@@ -270,7 +270,7 @@ e vemos que os outros homens fugiram. O guarda dobra o rabo
 e foge. Shrek ri e volta para seus negócios e
 começa a caminhar de volta para sua casa.
 
-ASNO
+BURRO
 Posso te dizer uma coisa? Ouço,
 você era realmente, realmente, realmente algo
 de volta aqui. Incrível!
@@ -281,7 +281,7 @@ e Burro se foi) eu? (ele volta
 ao redor e Burro está bem na frente
 dele.) Uau!
 
-ASNO
+BURRO
 Sim. Eu estava falando com você. Posso dizer
 você que você que você foi ótimo de volta
 aqui? Esses guardas! Eles pensaram que
@@ -293,7 +293,7 @@ me fez sentir bem em ver isso.
 SHREK
 Oh isso é ótimo. Sério.
 
-ASNO
+BURRO
 Cara, é bom ser livre.
 
 SHREK
@@ -301,7 +301,7 @@ Agora, por que você não vai comemorar o seu
 liberdade com seus próprios amigos? Hum?
 
 
-ASNO
+BURRO
 Mas, uh, eu não tenho nenhum amigo. E
 Eu não vou lá fora sozinho. Ei,
 espere um minuto! Tive uma ótima ideia! Eu vou
@@ -313,7 +313,7 @@ nós.
 Shrek se vira e olha Burro por um momento antes de rugir muito
 ruidosamente.
 
-ASNO
+BURRO
 Uau! Isso foi realmente assustador. Se você
 não se importe que eu diga, se isso não acontecer
 trabalho, sua respiração certamente vai ficar
@@ -330,7 +330,7 @@ fora da minha bunda naquele dia.
 SHREK
 Por que você está me seguindo?
 
-ASNO
+BURRO
 Eu vou te dizer por quê. (cantando) Porque
 Estou sozinho, não há ninguém aqui ao lado
 eu, meus problemas todos se foram, há
@@ -341,7 +341,7 @@ SHREK
 Pára de cantar! Não é de admirar que você não
 tem algum amigo.
 
-ASNO
+BURRO
 Uau. Só um verdadeiro amigo seria isso
 cruelmente honesto.
 
@@ -349,7 +349,7 @@ SHREK
 Ouça, burrinho. Dê uma olhada
 Eu. O que eu sou?
 
-ASNO
+BURRO
 (olha todo o caminho para Shrek) Uh ... realmente
 alta?
 
@@ -358,25 +358,25 @@ Não! Eu sou um ogro! Você sabe. "Pegue seu
 tocha e forcados." Não é isso
 incomodá-lo?
 
-ASNO
+BURRO
 Não.
 
 SHREK
 Sério?
 
-ASNO
+BURRO
 Sério sério.
 
 SHREK
 Oh.
 
-ASNO
+BURRO
 Cara, eu gosto de você. Qual é o seu nome?
 
 SHREK
 Ah, Shrek.
 
-ASNO
+BURRO
 Shrek? Bem, você sabe o que eu gosto sobre
 você, Shrek? Você tem aquele tipo de eu-não-me importo-o-que-ninguém-pensa-de-mim
 coisa. Eu gosto disso. Eu respeito isso,
@@ -388,7 +388,7 @@ no lugar assim?
 SHREK
 Essa seria a minha casa.
 
-ASNO
+BURRO
 Oh! E é adorável! Apenas bonita.
 Você sabe que é um grande decorador.
 É incrível o que você fez com tal
@@ -399,7 +399,7 @@ não entretém muito, não é?
 SHREK
 Eu gosto da minha privacidade.
 
-ASNO
+BURRO
 Sabe, eu também. Isso é outra coisa
 temos em comum. Como eu odeio quando
 você tem alguém na sua cara. Você tem
@@ -411,19 +411,19 @@ não vai sair. Há aquele silêncio constrangedor.
 SHREK
 Uh o quê?
 
-ASNO
+BURRO
 Posso ficar com você, por favor?
 
 SHREK
 (sarcasticamente) Claro!
 
-ASNO
+BURRO
 Sério?
 
 SHREK
 Não.
 
-ASNO
+BURRO
 Por favor! Eu não quero voltar lá!
 Você não sabe como é ser
 considerado uma aberração. (pausa enquanto ele
@@ -435,7 +435,7 @@ Você tem que me deixar ficar! Por favor! Por favor!
 SHREK
 Ok! Ok! Mas uma noite apenas.
 
-ASNO
+BURRO
 Ah! Obrigada! (ele corre para dentro da cabana)
 
 
@@ -443,7 +443,7 @@ SHREK
 O que você está...? (O burro salta para
 uma cadeira.) Não! Não!
 
-ASNO
+BURRO
 Isso vai ser divertido! Podemos ficar acordados
 tarde, trocando histórias viris, e em
 de manhã estou fazendo waffles.
@@ -451,13 +451,13 @@ de manhã estou fazendo waffles.
 SHREK
 Oh!
 
-ASNO
+BURRO
 Onde, uh, eu durmo?
 
 SHREK
 (irritado) Lá fora!
 
-ASNO
+BURRO
 Oh, bem, eu acho que é legal. Quero dizer,
 Eu não te conheço, e você não sabe
 eu, então acho que fora é melhor, você
@@ -479,7 +479,7 @@ SHREK
 (para Burro) Eu pensei que eu te disse para
 fique do lado de fora.
 
-ASNO
+BURRO
 (da janela) Estou do lado de fora.
 
 Há outro barulho e Shrek se vira para encontrar a pessoa que
@@ -578,7 +578,7 @@ Não não. Não está lá. Não está lá. (elas
 feche a porta nele) Oh! (vira para
 olha Burro)
 
-ASNO
+BURRO
 Ei, não olhe para mim. eu não convidei
 eles.
 
@@ -605,20 +605,20 @@ esse cara Farquaad é?
 
 Todos se olham, mas ninguém responde.
 
-ASNO
+BURRO
 Ah, eu sei. Eu sei onde ele está.
 
 SHREK
 Alguém mais sabe onde encontrar
 dele? Qualquer um?
 
-ASNO
+BURRO
 Eu! Eu!
 
 SHREK
 Alguém?
 
-ASNO
+BURRO
 Oh! Ah, me escolha! Oh eu sei! Eu sei!
 Eu, eu!
 
@@ -632,13 +632,13 @@ e de volta de onde você veio! (Pausa.
 Então a multidão vai à loucura.) Oh! (para Burro)
 Você! Você vem comigo.
 
-ASNO
+BURRO
 Tudo bem, isso é o que eu gosto de ouvir,
 cara. Shrek e Burro, dois robustos
 amigos, em uma cidade grande turbilhão
 aventura. Eu amo isso!
 
-ASNO
+BURRO
 (cantando) Na estrada novamente. Cante isso
 comigo, Shrek. Eu não posso esperar para obter
 Na estrada novamente.
@@ -646,13 +646,13 @@ Na estrada novamente.
 SHREK
 O que eu disse sobre cantar?
 
-ASNO
+BURRO
 Posso assobiar?
 
 SHREK
 Não.
 
-ASNO
+BURRO
 Posso cantarolar?
 
 SHREK
@@ -857,7 +857,7 @@ Estacionamento DuLoc - Seção Lancelot
 Shrek e Burro saem do campo que fica ao lado do estacionamento
 muito. O castelo em si tem cerca de 40 andares.
 
-ASNO
+BURRO
 Mas é isso. É isso aí.
 Isso é DuLoc. Eu disse que iria encontrá-lo.
 
@@ -866,7 +866,7 @@ SHREK
 Então, deve ser o castelo do Lorde Farquaad.
 
 
-ASNO
+BURRO
 Uh-uh. Esse é o lugar.
 
 SHREK
@@ -876,7 +876,7 @@ geme quando Burro não entende a piada.
 Ele continua andando pelo estacionamento
 muito.)
 
-ASNO
+BURRO
 Ei, espere. Espere, Shrek.
 
 CARA
@@ -904,7 +904,7 @@ SHREK
 Está quieto. Muito quieto. Onde está todo mundo?
 
 
-ASNO
+BURRO
 Ei, olhe para isso!
 
 Burro corre e puxa uma alavanca que está presa a uma caixa
@@ -936,7 +936,7 @@ DuLoc é o lugar perfeito.
 
 De repente, uma câmera tira a foto de Burro e Shrek.
 
-ASNO
+BURRO
 Uau! Vamos fazer isso de novo! (prepara
 para atropelar e puxar a alavanca novamente)
 
@@ -959,7 +959,7 @@ SHREK
 Tudo bem. Você está indo no caminho certo
 para um fundo batido.
 
-ASNO
+BURRO
 Me desculpe por isso.
 
 FARQUAAD
@@ -1017,7 +1017,7 @@ Burro consegue esmagar dois homens na lama. Há tanto
 luta acontecendo aqui eu não vou entrar em detalhes. Satisfazer
 dizer que Shrek chuta o traseiro.
 
-ASNO
+BURRO
 Ei, Shrek, me marque! Marque-me!
 
 Shrek vem e bate a cabeça de um homem contra Burros. Shrek
@@ -1094,7 +1094,7 @@ Que tipo de busca?
 Time Lapse - Burro e Shrek agora estão andando pelo campo
 indo para longe de DuLoc. Shrek está mastigando uma cebola.
 
-ASNO
+BURRO
 Deixe-me ver se entendi. Você vai
 vá lutar contra um dragão e resgatar uma princesa
 só para Farquaad te devolver
@@ -1106,7 +1106,7 @@ SHREK
 Você sabe, talvez haja uma boa razão
 burros não devem falar.
 
-ASNO
+BURRO
 Eu não entendo. Por que você não apenas puxa
 alguma daquelas coisas de ogro nele? Acelerador
 ele, sitiar sua fortaleza, mói
@@ -1121,33 +1121,33 @@ abra seu baço e beba seu
 fluidos. isso parece bom para você?
 
 
-ASNO
+BURRO
 Uh, não, não realmente, não.
 
 SHREK
 Para sua informação, há muito
 mais aos ogros do que as pessoas pensam.
 
-ASNO
+BURRO
 Exemplo?
 
 SHREK
 Exemplo? Certo, ogros são como cebolas.
 (ele estende a cebola)
 
-ASNO
+BURRO
 (cheira a cebola) Eles fedem?
 
 SHREK
 Sim não!
 
-ASNO
+BURRO
 Eles te fazem chorar?
 
 SHREK
 Não!
 
-ASNO
+BURRO
 Você os deixa no sol, eles ficam
 todo marrom, comece a brotar branquinho
 cabelos.
@@ -1158,7 +1158,7 @@ tem camadas! As cebolas têm camadas. Você
 pegue? Nós dois temos camadas. (ele levanta
 um suspiro e depois vai embora)
 
-ASNO
+BURRO
 (seguindo atrás de Shrek) Oh, vocês dois
 tem camadas. Oh. {Sniffs} Você sabe,
 nem todo mundo gosta de cebola. Bolo! Todo o mundo
@@ -1168,7 +1168,7 @@ SHREK
 Eu não me importo... o que todo mundo gosta.
 Ogros não são como bolos.
 
-ASNO
+BURRO
 Sabe o que mais todo mundo gosta?
 Parfaits. Você já conheceu uma pessoa,
 você diz: "Vamos pegar um parfait", eles
@@ -1181,7 +1181,7 @@ Besta de carga! Ogros são como cebolas!
 E de história. Tchau tchau. Te vejo mais tarde.
 
 
-ASNO
+BURRO
 Parfaits pode ser a coisa mais deliciosa
 em todo o maldito planeta.
 
@@ -1189,7 +1189,7 @@ SHREK
 Sabes, acho que preferia o teu cantarolar.
 
 
-ASNO
+BURRO
 Você tem um lenço ou algo assim? Eu estou
 fazendo bagunça. Apenas a palavra parfait
 me faça começar a babar.
@@ -1205,7 +1205,7 @@ Shrek e Burro estão caminhando até a fortaleza que deveria
 casa princesa Fiona. Parece um vulcão gigante.
 
 
-ASNO
+BURRO
 (funga) Ah! Shrek! Você fez isso?
 Você tem que avisar alguém antes de você apenas
 quebrar um. Minha boca estava aberta e
@@ -1216,7 +1216,7 @@ Acredite em mim, Burro, se fosse eu, você
 estar morto. (funga) É enxofre. Nós
 deve estar chegando perto.
 
-ASNO
+BURRO
 Sim, certo, enxofre. Não fique falando
 sobre isso é o enxofre. eu sei o que
 Eu cheiro. Não era enxofre. Isto
@@ -1233,14 +1233,14 @@ Claro, é grande o suficiente, mas olhe para o
 localização. (risos... então a risada vira
 em um gemido)
 
-ASNO
+BURRO
 Ah, Shrek? Uh, lembre-se quando você disse
 os ogros têm camadas?
 
 SHREK
 Ah, sim.
 
-ASNO
+BURRO
 Bem, eu tenho uma pequena confissão para
 faço. Burros não têm camadas. Nós
 usar nosso medo lá fora em nosso
@@ -1250,14 +1250,14 @@ SHREK
 Espere um segundo. Burros não têm mangas.
 
 
-ASNO
+BURRO
 Você sabe o que eu quero dizer.
 
 SHREK
 Você não pode me dizer que tem medo de altura.
 
 
-ASNO
+BURRO
 Não, estou apenas um pouco desconfortável
 sobre estar em uma ponte frágil sobre
 uma ebulição como de lava!
@@ -1268,13 +1268,13 @@ sim, ok? Para apoio emocional., vamos
 apenas enfrentar essa coisa juntos um
 pequeno passo de bebê de cada vez.
 
-ASNO
+BURRO
 Sério?
 
 SHREK
 Sério sério.
 
-ASNO
+BURRO
 Ok, isso me faz sentir muito melhor.
 
 
@@ -1282,7 +1282,7 @@ SHREK
 Apenas continue se movendo. E não olhe para baixo.
 
 
-ASNO
+BURRO
 Ok, não olhe para baixo. Não olhe para baixo.
 Não olhe para baixo. Continue em movimento. Não
 olhar para baixo. (ele passa por um apodrecido
@@ -1294,14 +1294,14 @@ fora, por favor!
 SHREK
 Mas você já está na metade.
 
-ASNO
+BURRO
 Mas eu sei que metade está segura!
 
 SHREK
 OK tudo bem. Eu não tenho tempo para isso.
 Você vai voltar.
 
-ASNO
+BURRO
 Shrek, não! Espere!
 
 SHREK
@@ -1309,14 +1309,14 @@ Só Burro - - Vamos dançar
 então, vou? (salta e balança o
 ponte)
 
-ASNO
+BURRO
 Não faça isso!
 
 SHREK
 Oh, me desculpe. Fazer o que? Ah, isso? (salta
 a ponte novamente)
 
-ASNO
+BURRO
 Isso!
 
 SHREK
@@ -1324,13 +1324,13 @@ Sim? Sim, faça isso. OK. (continua a
 quicar e balançar enquanto ele faz o Burro atravessar
 a Ponte)
 
-ASNO
+BURRO
 Não, Shrek! Não! Pare!
 
 SHREK
 Você disse faça isso! Eu estou fazendo isso.
 
-ASNO
+BURRO
 Eu vou morrer. Eu vou morrer. Shrek,
 Eu vou morrer. (passos em terra firme)
 Oh!
@@ -1339,7 +1339,7 @@ SHREK
 Isso serve, Burro. Isso serve. (anda em
 em direção ao castelo)
 
-ASNO
+BURRO
 Legal. Então, onde está esse cuspidor de fogo
 dor-no-pescoço de qualquer maneira?
 
@@ -1347,25 +1347,25 @@ SHREK
 Lá dentro, esperando por nós para resgatá-la.
 (risos)
 
-ASNO
+BURRO
 Eu estava falando sobre o dragão, Shrek.
 
 
 DENTRO DO CASTELO
 
-ASNO
+BURRO
 Você tem medo?
 
 SHREK
 Não.
 
-ASNO
+BURRO
 Mas...
 
 SHREK
 Shh.
 
-ASNO
+BURRO
 Ah, bom. Nem eu. (vê um esqueleto
 e suspiros) porque não há nada de errado
 com medo. O medo é sensato
@@ -1383,7 +1383,7 @@ Burro, duas coisas, está bem? Cale-se.
 Agora vá até lá e veja se você pode
 encontrar qualquer escada.
 
-ASNO
+BURRO
 Escadas? Eu pensei que estávamos procurando
 a princesa.
 
@@ -1392,7 +1392,7 @@ SHREK
 estar subindo as escadas no quarto mais alto
 na torre mais alta.
 
-ASNO
+BURRO
 O que te faz pensar que ela estará lá?
 
 
@@ -1400,7 +1400,7 @@ SHREK
 Li em um livro uma vez. (saindo)
 
 
-ASNO
+BURRO
 Legal. Você lida com o dragão. eu vou lidar
 as escadas. Eu vou encontrar aquelas escadas.
 Eu vou chicotear a bunda deles também. Aquelas escadas
@@ -1412,7 +1412,7 @@ SALA VAZIA
 Burro ainda está falando sozinho enquanto olha ao redor da sala.
 
 
-ASNO
+BURRO
 Vou tomar medidas drásticas. Chute-o
 ao meio-fio. Não mexa comigo. Eu estou
 o mestre da escada. eu dominei o
@@ -1427,7 +1427,7 @@ SHREK
 Bem, pelo menos sabemos onde a princesa
 é, mas onde está o...
 
-ASNO
+BURRO
 (os) Dragão!
 
 Burro suspira e sai correndo enquanto o dragão ruge novamente.
@@ -1444,13 +1444,13 @@ vai voando pelo ar e colide com o teto do
 torre mais alta. Fiona acorda com um empurrão e olha para ele deitado
 no chão.
 
-ASNO
+BURRO
 Oh! Aah! Aah!
 
 Burro fica encurralado quando o dragão derruba tudo, exceto um pequeno
 parte da ponte em que ele está.
 
-ASNO
+BURRO
 Não. Oh, não, não! (o dragão ruge) Oh,
 que dentes grandes você tem. (o Dragão
 rosna) Quero dizer, dentes brancos e brilhantes.
@@ -1592,7 +1592,7 @@ SHREK
 Um de cada tipo. (abre a porta para
 a sala do trono)
 
-ASNO
+BURRO
 (os) Desacelere. Devagar, querida, por favor.
 Eu acredito que é saudável conhecer
 alguém por um longo período de tempo.
@@ -1630,7 +1630,7 @@ uma espécie de coleira para ela. Ela ruge novamente e Shrek e Burro
 saia correndo. Muito estilo 'Matrix'. Shrek pega Burro e
 então agarra a princesa Fiona enquanto ele passa por ela.
 
-ASNO
+BURRO
 Olá princesa!
 
 FIONA
@@ -1689,7 +1689,7 @@ sua garganta.) E onde iria um bravo
 cavaleiro ficar sem seu nobre corcel?
 
 
-ASNO
+BURRO
 Espero que você tenha ouvido isso. Ela me chamou
 um nobre corcel. Ela acha que sou um corcel.
 
@@ -1721,7 +1721,7 @@ SHREK
 O que? (para Burro) Isso não estava no
 descrição do trabalho.
 
-ASNO
+BURRO
 Talvez seja um privilégio.
 
 FIONA
@@ -1731,7 +1731,7 @@ torre e cercado por um dragão é resgatado
 por um bravo cavaleiro, e então eles compartilham
 primeiro beijo do amor verdadeiro.
 
-ASNO
+BURRO
 Hum? Com Shrek? Vocę acha... - Espere.
 Espere. Você acha que Shrek é verdade
 amor?
@@ -1741,7 +1741,7 @@ Bem, sim.
 
 Tanto Burro quanto Shrek caíram na gargalhada.
 
-ASNO
+BURRO
 Você acha que Shrek é seu verdadeiro amor!
 
 
@@ -1806,7 +1806,7 @@ Mas eu tenho que ser resgatado pelo meu verdadeiro
 amor, não por algum ogro e seu- - seu
 bicho de estimação.
 
-ASNO
+BURRO
 Bem, tanto para o nobre corcel.
 
 SHREK
@@ -1832,7 +1832,7 @@ Você não ousaria. Coloque-me para baixo!
 SHREK
 Você vem, Burro?
 
-ASNO
+BURRO
 Estou bem atrás de você.
 
 FIONA
@@ -1845,7 +1845,7 @@ MADEIRAS
 Pouco tempo se passou e Fiona se acalmou. Ela só
 pendurada frouxamente enquanto Shrek a carrega.
 
-ASNO
+BURRO
 Ok, então aqui está outra pergunta. Dizer
 há uma mulher que gosta de você, certo,
 mas você realmente não gosta dela desse jeito.
@@ -1860,7 +1860,7 @@ você encontra sua... (Shrek a deixa cair
 o chão) Ei! Quanto mais cedo chegarmos
 DuLoc melhor.
 
-ASNO
+BURRO
 Você vai adorar lá, princesa.
 É lindo!
 
@@ -1876,7 +1876,7 @@ da estatura de Farquaad estão em falta.
 Shrek então começa a jogar água no rosto para lavar
 a poeira e a sujeira.
 
-ASNO
+BURRO
 Não sei. Há quem pense
 pouco dele. (eles riem de novo) Fiona:
 Pare com isso. Parem com isso, vocês dois. Você é
@@ -1901,7 +1901,7 @@ indo.
 FIONA
 Mas há ladrões na floresta.
 
-ASNO
+BURRO
 Uau! Tempo limite, Shrek! O acampamento está começando
 para soar bem.
 
@@ -1925,7 +1925,7 @@ uma pedra fora do caminho para revelar a caverna.
 SHREK
 Ei! Por aqui.
 
-ASNO
+BURRO
 Shrek, podemos fazer melhor que isso. EU
 não acho que isso é digno de uma princesa.
 
@@ -1946,7 +1946,7 @@ boa noite. (entra na caverna e
 coloca a porta da casca atrás dela)
 
 
-ASNO
+BURRO
 Quer que eu leia uma história para você dormir?
 Eu vou.
 
@@ -1957,7 +1957,7 @@ Shrek olha para Burro por um segundo e então vai mover o
 pedregulho de volta na frente da entrada da caverna com Fiona
 ainda dentro.
 
-ASNO
+BURRO
 Shrek, o que você está fazendo?
 
 SHREK
@@ -1975,7 +1975,7 @@ E, uh, aquele, isso é Throwback,
 o único ogro a cuspir mais de três
 Campos de trigo.
 
-ASNO
+BURRO
 Certo. Sim. Ei, você pode dizer o meu futuro
 dessas estrelas?
 
@@ -1985,7 +1985,7 @@ Eles contam histórias. Olha, há Bloodnut,
 o Flatulento. Você pode adivinhar o que ele é
 famoso por.
 
-ASNO
+BURRO
 Eu sei que você está inventando isso.
 
 SHREK
@@ -1993,7 +1993,7 @@ Não, olhe. Lá está ele, e lá está o
 grupo de caçadores fugindo de sua
 fedor.
 
-ASNO
+BURRO
 Isso não é nada, mas um monte de pouco
 pontos.
 
@@ -2002,7 +2002,7 @@ Você sabe, Burro, às vezes as coisas são
 mais do que aparentam. Hum? Esqueça.
 
 
-ASNO
+BURRO
 (dá um grande suspiro) Ei, Shrek, o que
 vamos fazer quando chegarmos ao nosso pântano de qualquer maneira?
 
@@ -2010,7 +2010,7 @@ vamos fazer quando chegarmos ao nosso pântano de qualquer maneira?
 SHREK
 Nosso pântano?
 
-ASNO
+BURRO
 Você sabe, quando terminarmos de resgatar
 a princesa.
 
@@ -2020,7 +2020,7 @@ não "nosso". Há apenas eu e meu pântano.
 A primeira coisa que vou fazer é construir
 um muro de três metros em volta da minha terra.
 
-ASNO
+BURRO
 Você me cortou profundamente, Shrek. Você me cortou de verdade
 profundo agora. Você sabe oque eu penso?
 Eu acho que essa coisa toda de parede é apenas
@@ -2029,13 +2029,13 @@ uma maneira de manter alguém fora.
 SHREK
 Não, você acha?
 
-ASNO
+BURRO
 Você está escondendo alguma coisa?
 
 SHREK
 Não importa, Burro.
 
-ASNO
+BURRO
 Oh, esta é outra daquelas cebolas
 coisas, não é?
 
@@ -2043,32 +2043,32 @@ SHREK
 Não, este é um daqueles desista e
 deixe as coisas em paz.
 
-ASNO
+BURRO
 Por que você não quer falar sobre isso?
 
 
 SHREK
 Por que você quer falar sobre isso?
 
-ASNO
+BURRO
 Por que você está bloqueando?
 
 SHREK
 Eu não estou bloqueando.
 
-ASNO
+BURRO
 Ah, sim, você é.
 
 SHREK
 Burro, estou avisando.
 
-ASNO
+BURRO
 Quem você está tentando manter fora?
 
 SHREK
 Todos! Ok?
 
-ASNO
+BURRO
 (pausa) Oh, agora estamos chegando a algum lugar.
 (sorri)
 
@@ -2080,7 +2080,7 @@ Oh! Pelo amor de Pedro! (levanta-se e
 caminha até a beira do precipício
 e senta-se)
 
-ASNO
+BURRO
 Qual é o seu problema? O que você tem contra
 o mundo inteiro mesmo?
 
@@ -2093,7 +2093,7 @@ estúpido, feio ogro!" Eles me julgam antes
 eles até me conhecem. É por isso que estou melhor
 fora sozinho.
 
-ASNO
+BURRO
 Você sabe o que? Quando nos conhecemos, eu não
 acho que você era apenas um grande, estúpido, feio
 ogro.
@@ -2101,7 +2101,7 @@ ogro.
 SHREK
 Sim, eu sei.
 
-ASNO
+BURRO
 Então, uh, há algum burro lá em cima?
 
 
@@ -2109,7 +2109,7 @@ SHREK
 Bem, há, hum, Gabby, a Pequena
 e irritante.
 
-ASNO
+BURRO
 Ok, ok, eu vejo agora. O grande brilhante
 um, bem ali. Aquele aí?
 
@@ -2119,7 +2119,7 @@ Fiona abre a porta.
 SHREK
 Essa é a lua.
 
-ASNO
+BURRO
 Oh, tudo bem.
 
 DuLoc - Quarto do Farquaad
@@ -2159,7 +2159,7 @@ agora está cozinhando os ovos para o café da manhã. Shrek e Burro ainda estã
 adormecido. Shrek acorda e olha para Fiona. Burro está falando
 em seu sono.
 
-ASNO
+BURRO
 (silenciosamente) Mmm, sim, você sabe que eu gosto
 é assim. Vem cá Neném. Eu disse
 Eu gosto disso.
@@ -2167,20 +2167,20 @@ Eu gosto disso.
 SHREK
 Burro, acorde. (o sacode)
 
-ASNO
+BURRO
 Huh? O que?
 
 SHREK
 Acordar.
 
-ASNO
+BURRO
 O que? (estica e boceja)
 
 FIONA
 Bom Dia. Hm, como você gosta do seu
 ovos?
 
-ASNO
+BURRO
 Ah, bom dia, princesa!
 
 Fiona se levanta e coloca os ovos na frente deles.
@@ -2208,14 +2208,14 @@ MAIS TARDE
 Eles estão mais uma vez a caminho. Eles estão andando pela
 floresta. Shrek arrota.
 
-ASNO
+BURRO
 Shrek!
 
 SHREK
 O que? É um elogio. Melhor sair
 do que em, eu sempre digo. (risos)
 
-ASNO
+BURRO
 Bem, não é maneira de se comportar na frente
 de uma princesa.
 
@@ -2224,7 +2224,7 @@ Fiona arrota
 FIONA
 Obrigado.
 
-ASNO
+BURRO
 Ela é tão desagradável quanto você.
 
 SHREK
@@ -2376,40 +2376,40 @@ FIONA
 Oh não. Isso é tudo minha culpa. Estou tão
 desculpe.
 
-ASNO
+BURRO
 (subindo) Por quê? O que há de errado?
 
 FIONA
 Shrek está ferido.
 
-ASNO
+BURRO
 Shrek está ferido. Shrek está ferido? Oh não,
 Shrek vai morrer.
 
 SHREK
 Burro, estou bem.
 
-ASNO
+BURRO
 Você não pode fazer isso comigo, Shrek. Eu estou
 muito jovem para morrer. Mantenha suas pernas
 elevado. Vire a cabeça e tosse.
 Alguém conhece o Heimlich?
 
 FIONA
-Asno! Acalmar. Se você quer ajudar
+BURRO! Acalmar. Se você quer ajudar
 Shrek, corra para a floresta e me encontre
 uma flor azul com espinhos vermelhos.
 
-ASNO
+BURRO
 Flor azul, espinhos vermelhos. Ok, estou em
 isto. Flor azul, espinhos vermelhos. Não morra
 Shrek. Se você vir um longo túnel, fique
 longe da luz!
 
 SHREK E FIONA
-Asno!
+BURRO!
 
-ASNO
+BURRO
 Oh sim. Certo. Flor azul, espinhos vermelhos.
 (foge)
 
@@ -2465,7 +2465,7 @@ EM OUTRO LUGAR
 
 Burro ainda está procurando a flor especial.
 
-ASNO
+BURRO
 Flor azul, espinhos vermelhos. Flor-azul,
 espinhos vermelhos. Flor azul, espinhos vermelhos.
 Isso seria muito mais fácil se eu não fosse
@@ -2475,7 +2475,7 @@ daltônico! Flor azul, espinhos vermelhos.
 SHREK
 (os) Ai!
 
-ASNO
+BURRO
 Espera, Shrek! Estou chegando'! (rasga um
 flor de um arbusto próximo que simplesmente acontece
 ser uma flor azul com espinhos vermelhos)
@@ -2495,14 +2495,14 @@ SHREK
 Ai! Ah! (ele sacode e consegue cair
 com Fiona em cima dele)
 
-ASNO
+BURRO
 Aham.
 
 SHREK
 (jogando Fiona de cima dele) Nada
 aconteceu. Estávamos apenas, uh - -
 
-ASNO
+BURRO
 Olha, se você quisesse ficar sozinho, tudo
 você tinha que fazer era perguntar. Ok?
 
@@ -2513,7 +2513,7 @@ minha mente. A princesa aqui era apenas-
 se vira para olhar para Fiona que segura
 a flecha com um sorriso) Ai!
 
-ASNO
+BURRO
 Ei, o que é isso? (riso nervoso)
 Isso é... isso é sangue?
 
@@ -2543,7 +2543,7 @@ vocês.
 FIONA
 Isso é DuLoc?
 
-ASNO
+BURRO
 Sim, eu sei. Você sabe, Shrek pensa
 Lord Farquaad está compensando algo,
 o que eu acho que significa que ele realmente tem um... (Shrek
@@ -2564,7 +2564,7 @@ FIONA
 Quero dizer, olhe para ele. Ele não parece
 tão bom.
 
-ASNO
+BURRO
 O que você está falando? Estou bem.
 
 
@@ -2582,7 +2582,7 @@ FIONA
 Uh, você sabe, eu vou fazer um chá para você.
 
 
-ASNO
+BURRO
 Eu não queria dizer nada, mas eu
 tenho essa pontada no pescoço, e quando
 Eu viro minha cabeça assim, olha, (vira
@@ -2597,7 +2597,7 @@ Quem está com fome? Vou arranjar-nos um jantar.
 FIONA
 Eu vou pegar a lenha.
 
-ASNO
+BURRO
 Ei, onde você vai? Oh, cara, eu não posso
 sinta meus dedos! (olha para baixo e grita)
 Eu não tenho dedos! acho que preciso
@@ -2651,7 +2651,7 @@ SHREK
 Eu, hum, eu estava me perguntando... você está... (suspiros)
 Você vai comer aquilo?
 
-ASNO
+BURRO
 (risos) Cara, isso não é romântico?
 Basta olhar para aquele pôr do sol.
 
@@ -2662,7 +2662,7 @@ tarde. E-É muito tarde.
 SHREK
 O que?
 
-ASNO
+BURRO
 Espere um minuto. Eu vejo o que está acontecendo
 aqui. Você tem medo do escuro, não tem
 vocês?
@@ -2671,7 +2671,7 @@ FIONA
 Sim! Sim é isso. Eu estou aterrorizado.
 Sabe, é melhor eu entrar.
 
-ASNO
+BURRO
 Não se sinta mal, princesa. Eu costumava
 tenha medo do escuro também, até que -
 - Ei, não, espere. ainda tenho medo
@@ -2688,14 +2688,14 @@ Boa noite.
 Fiona entra no moinho de vento e fecha a porta. Aparência de burro
 em Shrek com um novo olhar.
 
-ASNO
+BURRO
 Ah! Agora eu realmente vejo o que está acontecendo
 aqui.
 
 SHREK
 Ah, do que você está falando?
 
-ASNO
+BURRO
 Eu nem quero ouvir. Olha, eu estou
 um animal, e eu tenho instintos. E
 Eu sei que vocês dois estavam cavando em cada um
@@ -2705,7 +2705,7 @@ SHREK
 Você é louco. eu só estou trazendo ela
 de volta ao Farquaad.
 
-ASNO
+BURRO
 Ah, vamos, Shrek. Acorde e cheire
 os feromônios. Basta entrar e dizer
 ela como você se sente.
@@ -2717,13 +2717,13 @@ sei - - e não estou dizendo que sei porque
 Eu não - - ela é uma princesa, e eu sou
 - -
 
-ASNO
+BURRO
 Um ogro?
 
 SHREK
 Sim. Um ogro.
 
-ASNO
+BURRO
 Ei, onde você vai?
 
 SHREK
@@ -2737,14 +2737,14 @@ LAPSO DE TEMPO
 Burro abre a porta do Moinho de Vento e entra.
 nenhum lugar para ser visto.
 
-ASNO
+BURRO
 Princesa? Princesa Fiona? Princesa,
 Onde você está? Princesa?
 
 Fiona olha para Burro das sombras, mas não podemos vê-la.
 
 
-ASNO
+BURRO
 É muito assustador aqui. eu não estou jogando
 sem jogos.
 
@@ -2752,45 +2752,45 @@ De repente, Fiona cai do parapeito. Ela se levanta só que ela não
 parecer ela mesma. Ela parece um ogro e o Burro começa a enlouquecer
 Fora.
 
-ASNO
+BURRO
 Aah!
 
 FIONA
 Oh não!
 
-ASNO
+BURRO
 Nenhuma ajuda!
 
 FIONA
 Shh!
 
-ASNO
+BURRO
 Shrek! Shrek! Shrek!
 
 FIONA
 Não, está tudo bem. Está bem.
 
-ASNO
+BURRO
 O que você fez com a princesa?
 
 
 FIONA
 Burro, eu sou a princesa.
 
-ASNO
+BURRO
 Aah!
 
 FIONA
 Sou eu, neste corpo.
 
-ASNO
+BURRO
 Oh meu Deus! Você comeu a princesa. (para
 seu estômago) Você pode me ouvir?
 
 FIONA
-Asno!
+BURRO!
 
-ASNO
+BURRO
 (ainda apontada para o estômago dela) Ouça,
 continue respirando! vou tirar você de
 lá!
@@ -2798,13 +2798,13 @@ lá!
 FIONA
 Não!
 
-ASNO
+BURRO
 Shrek! Shrek! Shrek!
 
 FIONA
 Shh.
 
-ASNO
+BURRO
 Shrek!
 
 FIONA
@@ -2813,14 +2813,14 @@ Este sou eu.
 Burro olha nos olhos dela enquanto ela acaricia seu focinho, e ele se acalma
 baixa.
 
-ASNO
+BURRO
 Princesa? O que aconteceu com você? Você é,
 uh, uh, uh, diferente.
 
 FIONA
 Eu sou feio, ok?
 
-ASNO
+BURRO
 Bem, sim! Foi algo que você comeu?
 Porque eu disse ao Shrek que aqueles ratos eram um
 péssima ideia. Você é o que você come, eu disse.
@@ -2830,7 +2830,7 @@ FIONA
 Não. Eu - - Estou assim há tanto tempo
 como me lembro.
 
-ASNO
+BURRO
 O que você quer dizer? Olha, eu nunca
 vi você assim antes.
 
@@ -2841,7 +2841,7 @@ será a norma... até que você encontre
 primeiro beijo do amor verdadeiro... e depois tome
 a verdadeira forma do amor."
 
-ASNO
+BURRO
 Isso é lindo. eu não sabia
 você escreveu poesia.
 
@@ -2856,7 +2856,7 @@ Lord Farquaad amanhã antes do sol
 define e ele me vê assim. (começa
 chorar)
 
-ASNO
+BURRO
 Tudo bem, tudo bem. Acalmar. Olhar,
 não é tão ruim. Você não é tão feio.
 Bem, eu não vou mentir. Você é feio.
@@ -2868,7 +2868,7 @@ Mas Burro, eu sou uma princesa, e isso
 não é como uma princesa deve ser.
 
 
-ASNO
+BURRO
 Princesa, que tal se você não se casar
 Farquaad?
 
@@ -2876,7 +2876,7 @@ FIONA
 Eu tenho que. Apenas o beijo do meu verdadeiro amor
 pode quebrar o feitiço.
 
-ASNO
+BURRO
 Mas, você sabe, hum, você é uma espécie de
 orge, e Shrek - - bem, você tem um
 muito em comum.
@@ -2928,7 +2928,7 @@ Você não vê, Burro? Isso é apenas como
 tem que ser. É a única maneira de quebrar
 o feitiço.
 
-ASNO
+BURRO
 Você pelo menos tem que dizer a verdade ao Shrek.
 
 
@@ -2936,14 +2936,14 @@ FIONA
 Não! Você não pode respirar uma palavra. Ninguém
 deve sempre saber.
 
-ASNO
+BURRO
 Qual é o ponto de ser capaz de falar
 se você tem que manter segredos?
 
 FIONA
 Prometa que não vai contar. Promessa!
 
-ASNO
+BURRO
 Tudo bem, tudo bem. Eu não vou dizer a ele.
 Mas voce devia. (sai para fora) eu só
 saiba antes que isso acabe, eu vou
@@ -3016,7 +3016,7 @@ sentado em seu cavalo. Você nunca adivinharia que ele é apenas
 como 3 metros de altura. Burro acorda com um bocejo enquanto os soldados
 marchar.
 
-ASNO
+BURRO
 O que eu perdi? O que eu perdi? (pontos
 os soldados) (abafado) Quem disse isso?
 Não pode ter sido o burro.
@@ -3089,14 +3089,14 @@ Adeus, ogro.
 Todo o grupo de Farquaad começa a voltar para DuLoc. Relógios de burro
 eles vão.
 
-ASNO
+BURRO
 Shrek, o que você está fazendo? Você está deixando
 ela se afaste.
 
 SHREK
 Sim? E daí?
 
-ASNO
+BURRO
 Shrek, há algo sobre ela você
 não sei. Olha, eu falei com ela pela última vez
 noite, ela é - -
@@ -3107,7 +3107,7 @@ Vocês são ótimos amigos, não são? Agora se
 vocês dois são tão bons amigos, por que não
 você a segue até em casa?
 
-ASNO
+BURRO
 Shrek, eu... - Quero ir contigo.
 
 SHREK
@@ -3117,14 +3117,14 @@ Eu! Ninguém mais! Entender? Ninguém!
 Especialmente inútil, patético, irritante,
 burros falantes!
 
-ASNO
+BURRO
 Mas eu pensei - -
 
 SHREK
 Sim. Você sabe o que? Você pensou errado!
 (despedida)
 
-ASNO
+BURRO
 Shrek.
 
 Montagem de cenas diferentes. Shrek chegando em casa. Fiona
@@ -3138,11 +3138,11 @@ Shrek está jantando quando ouve um som lá fora. Ele vai
 fora para investigar.
 
 SHREK
-Asno? (O Burro o ignora e continua
+BURRO? (O Burro o ignora e continua
 com o que ele está fazendo.) O que você está
 fazendo?
 
-ASNO
+BURRO
 Eu pensaria que, de todas as pessoas, você
 reconhecer uma parede quando você vê um.
 
@@ -3152,14 +3152,14 @@ Bem, sim. Mas a parede é suposto
 contornar meu pântano, não atravessá-lo.
 
 
-ASNO
+BURRO
 É em torno de sua metade. Veja que é seu
 metade, e esta é a minha metade.
 
 SHREK
 Oh! Sua metade. Hum.
 
-ASNO
+BURRO
 Sim, minha metade. Ajudei a resgatar a princesa.
 Eu fiz metade do trabalho. eu recebo metade do
 espólio. Agora me dê aquela grande e velha pedra,
@@ -3169,40 +3169,40 @@ aquele que se parece com a sua cabeça.
 SHREK
 Recuar!
 
-ASNO
+BURRO
 Não, você recua.
 
 SHREK
 Este é o meu pântano!
 
-ASNO
+BURRO
 Nosso pântano.
 
 SHREK
 (pega o galho da árvore O Burro está a trabalhar
 com) Solte, Burro!
 
-ASNO
+BURRO
 Você deixou ir.
 
 SHREK
 Macaco teimoso!
 
-ASNO
+BURRO
 Ogro fedorento.
 
 SHREK
 Multar! (deixa o galho da árvore e caminha
 um jeito)
 
-ASNO
+BURRO
 Ei, ei, volte aqui. eu não terminei
 com você ainda.
 
 SHREK
 Bem, eu terminei com você.
 
-ASNO
+BURRO
 Uh-uh. Você sabe, com você é sempre,
 "Eu eu Eu!" Bem, adivinhe! Agora
 é a minha vez! Então você acabou de calar a boca e
@@ -3215,7 +3215,7 @@ SHREK
 Oh sim? Bem, se eu te tratasse assim
 ruim, como você voltou?
 
-ASNO
+BURRO
 Porque é isso que os amigos fazem! Elas
 perdoar um ao outro!
 
@@ -3225,7 +3225,7 @@ você... por me esfaquear pelas costas!
 (vai para a casinha e bate o
 porta)
 
-ASNO
+BURRO
 Ah! Você está tão embrulhado em camadas,
 menino cebola, você tem medo do seu próprio
 sentimentos.
@@ -3233,7 +3233,7 @@ sentimentos.
 SHREK
 (os) Vá embora!
 
-ASNO
+BURRO
 Aí está você, fazendo isso de novo apenas
 como você fez com Fiona. Tudo que ela sempre
 fazer era como você, talvez até te amo.
@@ -3244,7 +3244,7 @@ SHREK
 criatura medonha. Eu ouvi os dois
 você falando.
 
-ASNO
+BURRO
 Ela não estava falando de você. Ela era
 falando sobre, uh, outra pessoa.
 
@@ -3254,15 +3254,15 @@ SHREK
 falando sobre mim? Bem, então quem era
 ela está falando?
 
-ASNO
+BURRO
 Uh-uh, de jeito nenhum. Eu não estou dizendo nada.
 Você não quer me ouvir. Certo?
 Certo?
 
 SHREK
-Asno!
+BURRO!
 
-ASNO
+BURRO
 Não!
 
 SHREK
@@ -3271,21 +3271,21 @@ Eu sinto Muito. Acho que sou apenas um grande,
 ogro estúpido e feio. Você pode me perdoar?
 
 
-ASNO
+BURRO
 Ei, é para isso que servem os amigos, certo?
 
 
 SHREK
 Certo. Amigos?
 
-ASNO
+BURRO
 Amigos.
 
 SHREK
 Então, hum, o que Fiona disse sobre mim?
 
 
-ASNO
+BURRO
 O que você está me pedindo? Por que não
 você só vai perguntar a ela?
 
@@ -3293,7 +3293,7 @@ SHREK
 O casamento! Nós nunca vamos fazer isso em
 Tempo.
 
-ASNO
+BURRO
 Ha ha ha! Nunca tema, para onde, há
 uma vontade, há um caminho e eu tenho um caminho.
 (assobios)
@@ -3302,9 +3302,9 @@ De repente, o dragão chega e voa baixo o suficiente para
 eles podem subir.
 
 SHREK
-Asno?
+BURRO?
 
-ASNO
+BURRO
 Acho que é apenas o meu magnetismo animal.
 
 
@@ -3314,7 +3314,7 @@ SHREK
 Ah, venha aqui, você. (dá ao Burro um
 noogie)
 
-ASNO
+BURRO
 Tudo bem, tudo bem. Não pegue tudo
 babado. Ninguém gosta de um beijo na bunda. Tudo
 certo, suba e segure firme. eu não tenho
@@ -3352,7 +3352,7 @@ PÁTIO
 Alguns guardas estão circulando. De repente, o dragão pousa com
 um boom. Todos os guardas saem correndo.
 
-ASNO
+BURRO
 (para Dragon) Vá em frente, divirta-se.
 Se precisarmos de você, assobiarei. Que tal
 este? (ela balança a cabeça e vai atrás dos guardas)
@@ -3363,7 +3363,7 @@ SHREK
 (na porta da igreja) O que você está falando
 cerca de?
 
-ASNO
+BURRO
 Há uma linha que você tem que esperar. o
 pregador vai dizer: "Fale agora ou
 cale-se para sempre." Foi quando
@@ -3372,7 +3372,7 @@ você diz: "Eu me oponho!"
 SHREK
 Eu não tenho tempo para isso!
 
-ASNO
+BURRO
 Ei, espere. O que você está fazendo? Ouço
 para mim! Olha, você ama essa mulher, não
 vocês?
@@ -3380,19 +3380,19 @@ vocês?
 SHREK
 Sim.
 
-ASNO
+BURRO
 Você quer segurá-la?
 
 SHREK
 Sim.
 
-ASNO
+BURRO
 Por favor, ela?
 
 SHREK
 Sim!
 
-ASNO
+BURRO
 (cantando estilo James Brown) Então você
 tem que, tem que tentar um pouco de ternura.
 (normal) As garotas adoram aquele romântico
@@ -3402,7 +3402,7 @@ SHREK
 Tudo bem! Pare com isso. Quando isso acontece
 cara dizer a linha?
 
-ASNO
+BURRO
 Temos que verificar.
 
 DENTRO DA IGREJA
@@ -3419,7 +3419,7 @@ Fora
 SHREK
 O que você vê?
 
-ASNO
+BURRO
 A cidade inteira está lá.
 
 Lado de dentro
@@ -3430,7 +3430,7 @@ Eu agora os declaro marido e mulher...
 
 Fora
 
-ASNO
+BURRO
 Eles estão no altar.
 
 Lado de dentro
@@ -3440,7 +3440,7 @@ PADRE
 
 Fora
 
-ASNO
+BURRO
 Mãe Fletcher! Ele já disse isso.
 
 
@@ -3603,7 +3603,7 @@ Eu terei - - (Burro e o dragão
 aparecer e o dragão se inclina e
 come Farquaad) Aaaah! Aah!
 
-ASNO
+BURRO
 Tudo bem. Ninguém se move. eu tenho um dragão
 aqui, e eu não tenho medo de usá-lo.
 (O dragão ruge.) Eu sou um burro
@@ -3612,13 +3612,13 @@ A beira!
 O dragão arrota e a coroa de Farquaad voa para fora de sua boca
 e cai no chão.
 
-ASNO
+BURRO
 Casamentos de celebridades. Eles nunca duram,
 Eles?
 
 A congregação aplaude.
 
-ASNO
+BURRO
 Vá em frente, Shrek.
 
 SHREK
@@ -3673,7 +3673,7 @@ Mas você é linda.
 
 Eles sorriem um para o outro.
 
-ASNO
+BURRO
 (risos) Eu estava esperando que isso fosse
 um final feliz.
 
@@ -3695,7 +3695,7 @@ cantando a canção.
 HOMEM DE GENGIBRE
 Deus abençoe todos nós.
 
-ASNO
+BURRO
 (quando ele termina de cantar e nós desaparecemos para
 preto) Ah, isso é engraçado. Oh. Oh. Não posso
 respirar. Eu não consigo respirar.
