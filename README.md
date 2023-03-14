@@ -1,4 +1,4 @@
-# SendScriptWhatsApp V2 - 2022
+# SendScriptWhatsApp V2 
 
 Código para enviar o Script inteiro de Shrek para seus amigos ou grupos do WhatsApp
 
