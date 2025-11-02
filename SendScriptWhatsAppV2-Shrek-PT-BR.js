@@ -12,7 +12,7 @@ async function enviarScript(scriptText) {
 
     // Função para pegar o botão correto
     function getSendButton() {
-        return main.querySelector('button[aria-label="Enviar"]');
+        return main.querySelector('div[aria-label="Enviar"]');
     }
 
     function waitForSendButton(timeout = 5000) {
